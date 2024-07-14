@@ -1,0 +1,15 @@
+seek -f history /home/krishna/Downloads/OSN3
+seek -f newfolder /home/krishna/Downloads/OSN3/doe
+seek -e -f history /home/krishna/Downloads/OSN3/sample_folder
+seek -e -d newfolder /home/krishna/Downloads/OSN3/sample_folder
+warp ~
+cat < a.txt | wc
+neonate -n 2
+sleep 15 &
+fg 154676
+sleep 10 &
+fg 154969
+sleep 15 &
+fg 155218
+sleep 10 &
+fg 155444

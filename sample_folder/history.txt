@@ -1,0 +1,12 @@
+peek
+peek -la
+warp ~
+peek -l
+peek -la
+warp ~
+warp sample_folder
+warp ~
+warp sample_folder
+warp ~
+warp sample_folder
+peek
